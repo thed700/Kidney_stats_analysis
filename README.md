@@ -201,7 +201,7 @@ ckd-statistical-analysis/
 
 ```bash
 # Clone
-git clone https://github.com/thed700/ckd-statistical-analysis.git
+git clone https://github.com/thed700/Kidney_stats_analysis
 cd ckd-statistical-analysis
 
 # Install dependencies
